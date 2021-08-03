@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523485220810",
+    "project_id": "acsdrivers-8db5c",
+    "storage_bucket": "acsdrivers-8db5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523485220810:android:e99ccabe4e04378f194933",
+        "android_client_info": {
+          "package_name": "com.acsdrivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523485220810-errhpu9psh4u5q6mm6u4lur482jgifif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN08wYcCa1VjHH5V_U8pRmRbXuDl4dEtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523485220810-errhpu9psh4u5q6mm6u4lur482jgifif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
